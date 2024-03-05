@@ -61,3 +61,5 @@ ls --color=auto -2
 ls --color=auto -1
 ls --color=auto
 ls --color=auto -l
+has
+cd has
