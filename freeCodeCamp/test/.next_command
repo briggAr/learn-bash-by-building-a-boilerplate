@@ -64,3 +64,6 @@ ls --color=auto -l
 has
 cd has
 ls --color=auto
+more readme.md
+cd readme.md
+more README.md
