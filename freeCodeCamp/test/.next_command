@@ -25,3 +25,4 @@ echo hello terminal
 pdw
 pdw
 pwd
+ls --color=auto
