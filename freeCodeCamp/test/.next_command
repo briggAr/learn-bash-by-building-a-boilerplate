@@ -67,3 +67,4 @@ ls --color=auto
 more readme.md
 cd readme.md
 more README.md
+ls --color=auto
