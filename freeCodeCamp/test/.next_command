@@ -69,3 +69,5 @@ cd readme.md
 more README.md
 ls --color=auto
 more LICENSE-MIT
+__vsc_prompt_cmd_original
+clear
