@@ -42,3 +42,22 @@ ls --color=auto
 __vsc_prompt_cmd_original
 cd node_modules
 ls --color=auto
+ls --color=auto -1
+ls --color=auto -1
+cd ..
+pwd
+ls --color=auto
+node_modules
+cd node_modules
+__vsc_prompt_cmd_original
+ls-1
+ls --color=auto -1
+ls --color=auto
+ls --color=auto
+ls --color=auto -1
+-1 ls
+ls --color=auto
+ls --color=auto -2
+ls --color=auto -1
+ls --color=auto
+ls --color=auto -l
