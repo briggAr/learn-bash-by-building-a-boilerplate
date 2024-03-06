@@ -115,3 +115,7 @@ ls --color=auto
 ls --color=auto -l
 cd has
 ls --color=auto
+clear
+src
+ls --color=auto
+cd src
