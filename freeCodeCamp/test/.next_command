@@ -120,3 +120,5 @@ src
 ls --color=auto
 cd src
 pwd
+more src
+ls --color=auto
